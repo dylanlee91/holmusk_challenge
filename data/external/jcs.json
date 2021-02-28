@@ -1,0 +1,20 @@
+[
+{"area": "Ang Mo Kio\n", "school_name": "Anderson Serangoon Junior College", "address": "4500 Ang Mo Kio Avenue 6", "schooltype": "Government"},
+{"area": "Queenstown\n", "school_name": "Anglo-Chinese Junior College", "address": "25 Dover Close East", "schooltype": "Government-aided"},
+{"area": "Queenstown\n", "school_name": "Anglo-Chinese IB Junior College", "address": "121 Dover Road\n", "schooltype": "Independent\n"},
+{"area": "Novena\n", "school_name": "Catholic Junior College", "address": "129 Whitley Road", "schooltype": "Government-aided"},
+{"area": "Kallang\n", "school_name": "Dunman High School", "address": "10 Tanjong Rhu Road", "schooltype": "Autonomous"},
+{"area": "Queenstown\n", "school_name": "Eunoia Junior College", "address": "53 Mount Sinai Road (holding site)", "schooltype": "Government"},
+{"area": "Bukit Timah\n", "school_name": "Hwa Chong Junior College", "address": "661 Bukit Timah Road", "schooltype": "Independent"},
+{"area": "Choa Chu Kang\n", "school_name": "Jurong Pioneer Junior College", "address": "21 Teck Whye Walk", "schooltype": "Government"},
+{"area": "Serangoon\n", "school_name": "Nanyang Junior College", "address": "128 Serangoon Avenue 3\n", "schooltype": "Government-aided\n"},
+{"area": "Bukit Timah\n", "school_name": "National Junior College", "address": "37 Hillcrest Road", "schooltype": "Government"},
+{"area": "Bishan\n", "school_name": "Raffles Junior College", "address": "1 Raffles Institution Lane", "schooltype": "Independent"},
+{"area": "Jurong West\n", "school_name": "River Valley Junior College", "address": "6 Boon Lay Avenue", "schooltype": "Autonomous"},
+{"area": "Toa Payoh\n", "school_name": "Saint Andrew's Junior College", "address": "5 Sorby Adams Drive", "schooltype": "Government-aided"},
+{"area": "Novena\n", "school_name": "St. Joseph's Junior College", "address": "38 Malcolm Road\n", "schooltype": "Independent\n"},
+{"area": "Pasir Ris\n", "school_name": "Tampines Meridian Junior College", "address": "21 Pasir Ris Street 71", "schooltype": "Government"},
+{"area": "Bedok\n", "school_name": "Temasek Junior College", "address": "22 Bedok South Road", "schooltype": "Government"},
+{"area": "Bedok\n", "school_name": "Victoria Junior College", "address": "20 Marine Vista", "schooltype": "Government"},
+{"area": "Yishun\n", "school_name": "Yishun Innova Junior College", "address": "3 Yishun Ring Road", "schooltype": "Government"}
+]
