@@ -1,7 +1,7 @@
 Holmusk HDB Housing Challenge
 ==============================
 
-3
+Analysing HDB's housing data
 
 Project Organization
 ------------
