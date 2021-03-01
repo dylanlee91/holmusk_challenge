@@ -1,4 +1,4 @@
-To populate the external data folder, the following commands were run using scrapy from the 'src\spiders\wikipedia' directory
+To populate the external data folder, the following commands were run using scrapy from the 'src\data\wikipedia' directory
 
 scrapy crawl prisch -O ../../../../../data/external/prisch.json
 scrapy crawl postsec -O ../../../../../data/external/postsec.json
