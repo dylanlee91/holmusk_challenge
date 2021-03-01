@@ -78,6 +78,9 @@ target/
 # exclude data from source control by default, but I have removed this for now
 # /data/
 
+# not storing the pickle with my api keys on the cloud :o
+/data/keys
+
 # Mac OS-specific storage files
 .DS_Store
 
