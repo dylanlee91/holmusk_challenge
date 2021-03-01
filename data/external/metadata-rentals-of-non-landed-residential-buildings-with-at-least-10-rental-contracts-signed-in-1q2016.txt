@@ -1,0 +1,89 @@
+# Metadata for Rentals of Non-Landed Residential Buildings, Quarterly
+---
+Identifier: '83b4db03-4948-491c-80ba-04fb625747ab'
+Name: 'rentals-of-non-landed-residential-buildings-with-at-least-10-rental-contracts-signed-in-1q2016'
+Title: 'Rentals of Non-Landed Residential Buildings, Quarterly'
+Description:
+  - 'This listing contains summary statistics (median, 25th percentile, 75th percentile
+    and number of rental contracts) of major non-landed private residential projects
+    with at least 10 rental contracts signed in a quarter.'
+  - ''
+  - 'A major project is defined as one with at least 100 residential units.'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'Condominiums'
+  - 'Housing'
+  - 'Land Use'
+  - 'Private Property'
+  - 'Property'
+  - 'Rental'
+  - 'median rental'
+Publisher:
+  Name: 'Urban Redevelopment Authority'
+  Admin 1:
+    Name: 'Chee Tuck Chuen'
+    Department: 'URA'
+    Email: 'chee_tuck_chuen@ura.gov.sg'
+Sources:
+  - 'Urban Redevelopment Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Quarterly'
+Coverage: '2020-10-01 to 2020-12-31'
+Last Updated: '2021-02-15T10:01:00.535709'
+Resources:
+  -
+    Identifier: '4384e22c-234f-4196-9df8-1941cd41c667'
+    Title: 'Rentals of Non-Landed Residential Buildings'
+    Url: 'https://storage.data.gov.sg/rentals-of-non-landed-residential-buildings-with-at-least-10-rental-contracts-signed-in-1q2016/resources/rentals-of-non-landed-residential-buildings-2021-02-15T10-01-00Z.csv'
+    Format: 'CSV'
+    Coverage: '2020-10-01 to 2020-12-31'
+    Description: 'This listing contains summary statistics (median, 25th percentile,
+      75th percentile, and number of rental contracts) of major non-landed private
+      residential projects with at least 10 rental contracts signed in a quarter.
+      A major project is defined as one with at least 100 residential units'
+    Last Updated: '2021-02-15T10:01:00.081933'
+    Schema:
+      -
+        Name: 'qtr'
+        Title: 'Quarter'
+        Type: 'datetime'
+        Sub Type: 'quarter'
+        Format: 'YYYY-[Q]Q'
+      -
+        Name: 'project_name'
+        Title: 'Project Name'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'postal_district'
+        Title: 'Postal District'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: '25th_percentile'
+        Title: '25th Percentile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ psm pm'
+        Description: 'Per Square Meter, Per Month'
+      -
+        Name: 'median'
+        Title: 'Median'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ psm pm'
+        Description: 'Per Square Meter, Per Month'
+      -
+        Name: '75th_percentile'
+        Title: '75th percentile'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$ psm pm'
+        Description: 'Per Square Meter, Per Month'
+      -
+        Name: 'rental_contracts'
+        Title: 'Rental contracts'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Number'

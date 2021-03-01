@@ -1,0 +1,61 @@
+# Metadata for Number of Applications Registered for Resale and Rental Flats
+---
+Identifier: 'e77aba3b-bee3-4d9d-9e89-b0d7b62ff8c9'
+Name: 'number-of-applications-registered-for-resale-flats'
+Title: 'Number of Applications Registered for Resale and Rental Flats'
+Description: 'Data can also be found in HDB''s Annual Reports under Key Statistics:
+  http://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/annual-reports'
+Topics:
+  - 'Infrastructure'
+Keywords:
+  - 'HDB'
+  - 'Housing'
+  - 'Property'
+  - 'Public Housing'
+  - 'Rental'
+  - 'Resale Flats'
+Publisher:
+  Name: 'Housing and Development Board'
+  Admin 1:
+    Name: 'Michelle Tay'
+    Department: 'HDB'
+    Email: 'michelle_mb_tay@hdb.gov.sg'
+  Admin 2:
+    Name: 'Toh Xue Qin'
+    Department: 'HDB'
+    Email: 'toh_xue_qin@hdb.gov.sg'
+Sources:
+  - 'Housing and Development Board'
+Source Url: 'http://www.hdb.gov.sg/cs/infoweb/about-us/news-and-publications/annual-reports'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2007-04-01 to 2019-03-31'
+Last Updated: '2020-01-02T06:33:29.283002'
+Resources:
+  -
+    Identifier: 'dea41bef-7116-43ba-9f2f-f13bfbf876d2'
+    Title: 'Applications registered for resale flats and rental flats'
+    Url: 'https://storage.data.gov.sg/number-of-applications-registered-for-resale-flats/resources/applications-registered-for-resale-flats-and-rental-flats-2020-01-02T06-33-27Z.csv'
+    Format: 'CSV'
+    Coverage: '2007-04-01 to 2019-03-31'
+    Last Updated: '2020-01-02T06:33:27.476775'
+    Schema:
+      -
+        Name: 'financial_year'
+        Title: 'Financial Year'
+        Type: 'datetime'
+        Sub Type: 'financial_year'
+        Format: 'YYYY'
+        Description: 'Financial year starts on 1 April and ends on 31 March'
+      -
+        Name: 'type'
+        Title: 'Type'
+        Type: 'text'
+        Sub Type: 'general'
+        Description: 'Resale or rental'
+      -
+        Name: 'applications_registered'
+        Title: 'Applications Registered'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of applications registered'
