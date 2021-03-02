@@ -8,6 +8,6 @@ with open('authkeys', 'wb') as authkeys:
 
 # to load this:
 """
-with open('authkeys.pickle', 'rb') as handle:
+with open('src\data\keys\authkeys.pickle', 'rb') as handle:
     test = pickle.load(handle)
 """
