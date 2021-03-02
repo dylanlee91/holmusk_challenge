@@ -81,7 +81,7 @@ target/
 # not storing the pickle with my api keys on the cloud :o
 src/data/keys
 src/data/keys/keypickler.py
-
+src/data/keys/authkeys
 # Mac OS-specific storage files
 .DS_Store
 
@@ -91,4 +91,5 @@ src/data/keys/keypickler.py
 
 # Mypy cache
 .mypy_cache/
+
 
