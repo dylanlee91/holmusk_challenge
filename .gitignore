@@ -93,3 +93,5 @@ src/data/keys/authkeys
 .mypy_cache/
 
 
+src/data/keys/authkeys
+src/data/keys/keypickler.py
